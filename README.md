@@ -2,7 +2,7 @@
 
 CommAI is an innovative project designed to assess and enhance human communication skills by analyzing interactions through both text and speech. By leveraging cutting-edge Natural Language Processing (NLP) techniques, this tool evaluates users' communication abilities across multiple parameters and provides actionable feedback.
 
-#Features
+# Features
 
 Dual Interface: Users can interact with CommAI via text or speech input, making it versatile and accessible.
 
@@ -34,7 +34,7 @@ Automatic Parameter Selection: The system dynamically selects parameters for eva
 
 Advanced AI Integration: CommAI uses the Ollama 3 model for text and speech analysis, ensuring robust and accurate evaluations.
 
-Technologies Used
+# Technologies Used
 
 Frontend: HTML, CSS, JavaScript for the user interface.
 
@@ -44,7 +44,7 @@ AI and NLP: Leveraging TensorFlow and Ollama 3 for text and speech processing.
 
 Database: MySQL for storing user data and evaluation results.
 
-How It Works
+# How It Works
 
 Input: Users provide input via text typing or speech recording.
 
@@ -54,13 +54,13 @@ Evaluation: Each parameter is scored based on the processed data.
 
 Feedback: The system provides detailed feedback and assigns the user a communication skill level.
 
-Challenges and Solutions
+# Challenges and Solutions
 
 Performance Issues: Due to hardware limitations (8 GB RAM), response times for text and speech analysis ranged from 2-3 minutes. This issue highlights the need for more efficient processing or hardware upgrades.
 
 User Experience: A dynamic interface ensures that users receive a seamless and intuitive experience.
 
-Future Enhancements
+# Future Enhancements
 
 Improved Hardware Support: Upgrading to better hardware to reduce response times.
 
